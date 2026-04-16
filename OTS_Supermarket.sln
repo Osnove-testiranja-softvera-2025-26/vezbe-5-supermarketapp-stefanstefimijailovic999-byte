@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1267
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS_Supermarket", "OTS2019_Supermarket\OTS_Supermarket.csproj", "{07F9AD34-4A8E-4576-9398-EC9512BDB10F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS_Supermarket.Test", "OTS2019_Supermarket.Test\OTS_Supermarket.Test.csproj", "{01B96C4D-3E02-4291-99B4-393B0B14686E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS_SupermarketTest", "OTS2019_Supermarket.Test\OTS_SupermarketTest.csproj", "{01B96C4D-3E02-4291-99B4-393B0B14686E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
